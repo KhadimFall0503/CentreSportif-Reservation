@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\membres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\membres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\terrains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\terrains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\souslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\souslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\rapportoccupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\rapportoccupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\periode_saison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\periode_saison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\outil_affichage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\outil_affichage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\centresportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\centresportif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\cartemembre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\cartemembre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|c:\\users\\khadi\\onedrive\\bureau\\teccart\\programmation c#\\projet_groupe1\\code\\gestion_reservation\\gestion_reservation\\tarification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965D5685-389E-01D4-9900-BE7D751E8BA9}|Gestion_Reservation\\Gestion_Reservation.csproj|solutionrelative:gestion_reservation\\tarification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paiement.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Paiement.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Paiement.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Paiement.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Paiement.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T01:03:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Periode_Saison.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Periode_Saison.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Periode_Saison.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Periode_Saison.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Periode_Saison.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:46:53.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RapportOccupation.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\RapportOccupation.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\RapportOccupation.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\RapportOccupation.cs",
+              "RelativeToolTip": "Gestion_Reservation\\RapportOccupation.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T01:10:31.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SousLocation.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\SousLocation.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\SousLocation.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\SousLocation.cs",
+              "RelativeToolTip": "Gestion_Reservation\\SousLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T01:09:16.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Terrains.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Terrains.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Terrains.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Terrains.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Terrains.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA9wDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T01:01:21.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Interface.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Interface.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Interface.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Interface.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:51:57.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Membres.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Membres.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Membres.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Membres.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Membres.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:57:20.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Outil_Affichage.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Outil_Affichage.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Outil_Affichage.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Outil_Affichage.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Outil_Affichage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:45:15.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Enum.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Enum.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Enum.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:43:15.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CentreSportif.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\CentreSportif.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\CentreSportif.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\CentreSportif.cs",
+              "RelativeToolTip": "Gestion_Reservation\\CentreSportif.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA2wAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T01:13:09.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarteMembre.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\CarteMembre.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\CarteMembre.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\CarteMembre.cs",
+              "RelativeToolTip": "Gestion_Reservation\\CarteMembre.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwAMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:55:39.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Program.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Program.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAE0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T22:02:39.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Reservation.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Reservation.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Reservation.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Reservation.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAADwv6ABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T01:05:42.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tarification.cs",
+              "DocumentMoniker": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Tarification.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservation\\Tarification.cs",
+              "ToolTip": "C:\\Users\\khadi\\OneDrive\\Bureau\\TECCART\\PROGRAMMATION C#\\Projet_Groupe1\\code\\Gestion_Reservation\\Gestion_Reservation\\Tarification.cs",
+              "RelativeToolTip": "Gestion_Reservation\\Tarification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T00:49:30.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\bin\Debug\net10.0\Gestion_Reservation.exe
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\bin\Debug\net10.0\Gestion_Reservation.deps.json
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\bin\Debug\net10.0\Gestion_Reservation.runtimeconfig.json
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\bin\Debug\net10.0\Gestion_Reservation.dll
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\bin\Debug\net10.0\Gestion_Reservation.pdb
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\Gestion_Reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\Gestion_Reservation.AssemblyInfoInputs.cache
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\Gestion_Reservation.AssemblyInfo.cs
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\Gestion_Reservation.csproj.CoreCompileInputs.cache
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\Gestion_Reservation.dll
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\refint\Gestion_Reservation.dll
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\Gestion_Reservation.pdb
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\Gestion_Reservation.genruntimeconfig.cache
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\ref\Gestion_Reservation.dll
+C:\Users\khadi\OneDrive\Bureau\TECCART\PROGRAMMATION C#\Projet_Groupe1\code\Gestion_Reservation\Gestion_Reservation\obj\Debug\net10.0\Gestion_.2FC1289D.Up2Date
